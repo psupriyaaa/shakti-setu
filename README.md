@@ -1,7 +1,20 @@
-## 
+# 🌸 Shakti Setu – Bridge to Empowerment
 
-This source code has been exported from [Caffeine](https://caffeine.ai/)
+Shakti Setu is a platform designed to empower women by helping them learn skills, start businesses, and earn income.
 
-### Coming Soon
+## 🚀 Live App
+👉 https://shakti-setu-agr.caffeine.xyz/
 
-We are working on tools to help you build locally and deploy your apps back to caffeine.
+## 💡 Features
+- Skill learning (business, marketing, entrepreneurship)
+- Marketplace for selling products
+- Community support for women
+- Beginner-friendly interface
+
+## 🎯 Target Users
+- Homemakers
+- Women entrepreneurs
+- Beginners in business
+
+## 🌍 Goal
+To bridge the gap between skills and income and empower women financially.
